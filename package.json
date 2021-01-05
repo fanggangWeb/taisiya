@@ -15,7 +15,7 @@
     "build:sit": "cross-env env_config=testing node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cube-ui": "^1.10.2",
     "img-vuer": "^0.12.1",
     "jquery": "^3.3.1",
